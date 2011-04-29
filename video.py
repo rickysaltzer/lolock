@@ -1,4 +1,3 @@
-#!/usr/bin/env python
 # Created By Monstrado
 # Description:
 # A hook is inserted into the system, upon any mouse down events the 
