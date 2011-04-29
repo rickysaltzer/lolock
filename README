@@ -1,0 +1,27 @@
+LOLOCK README
+
+Required Modules:
+-- pyHook
+-- pythoncom
+-- mailer
+-- VideoCapture & PIL
+
+Install:
+1.) Install the required modules
+2.) Open video.py in a text editor (vi, notepad, etc)
+3.) Head down to the settings section and make any appropriate changes
+
+Usage:
+1.) Double click video.py, it should perform a countdown...use this time to minimize the window. 
+2.) Walk away from PC inconspicuously
+3.) Wait for some stupid person to try and mess with your computer. 
+4.) ???
+5.) Profit
+
+Note - To override the lock and exit out of lolock perform the magic key sequence, (ALT+J). This can be changed by modifying the KeyID if statement...I was a little too lazy to actually make it modular. 
+
+Troubleshooting:
+- If the application is just opening and closing then there may be an error loading one of the modules
+-- Just open a command prompt and cd into the video.py directory and type "python video.py" to see the error message. 
+
+Good luck! 
